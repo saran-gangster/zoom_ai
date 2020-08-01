@@ -14,7 +14,7 @@ usage:\
 after running sample.py run the main file\
 example:\
       zoomCalendar.py\
-      zoomSheets.py\
+      zoomSheets.py
 
 
 
